@@ -37,13 +37,13 @@ public class TravelRouteDP {
             initializeGraph("adjacent.txt");
 
             int minTime = findOptimalTimeandRoute("Start");
-            System.out.println("Minimum total travel and stay time: " + minTime);
+            System.out.println("Minimum total travel and stay time: " + minTime + " minutes.");
 
             List<String> route = getRoute();
             
             int totalPrice = calculateTotalPrice(route);
-            System.out.println("Optimal Route: " + String.join(" -> ", simplifyRoute(route)));
-            System.out.println("Total Price: " + totalPrice);
+            System.out.println("Optimal Route: \n" + String.join(" -> ", simplifyRoute(route)));
+            System.out.println("Total Price: Rp." + totalPrice);
         } catch (IOException e) {
             e.printStackTrace();
         }
