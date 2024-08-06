@@ -1,0 +1,13 @@
+J1 Nasi_Jamblang_Ibu_Nur 30000
+J2 Nasi_Jamblang_Mang_Dul 25000
+J3 Nasi_Jamblang_Ibad_Otoy 25000
+H1 Neo_HoteL 389000
+H2 Hotel_Citra_Dream 348000
+H3 Hotel_Grand_Dian 407000
+W1 Taman_Gua_Sunyaragi 15000
+W2 Kraton_Kasepuhan 25000
+W3 Kampung_Sabin 30000
+K1 Mie_Koclok_Mas_Edi 17000
+K2 Mie_Koclok_Panjunan 20000
+D1 Docang_Ibu_Wiwi 12000
+D2 Docang_Pak_Kumis 9000
